@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.toast
+.lucid
+
+# Bases de datos y archivos locales
+db.sqlite3
+
+# Git / IDEs
+.git/
+.gitignore
+.idea/
+.vscode/
+.gemini/
+.agents/
+*.md
